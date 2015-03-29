@@ -43,7 +43,7 @@ a#pdf:hover { background: #222; }
 
 .job { position: relative; margin-bottom: 0.7em; padding-bottom: 0.5em;  }
 .job h4 { position: absolute; top: -0.02em; right: 0; }
-.job p { margin: 0.20em 0 0 0; }
+.job p { margin: 0.20em 0 0 0.20em; }
 
 .last { border: none; }
 .skills-list {  }
@@ -72,6 +72,7 @@ a#pdf:hover { background: #222; }
 .name h2 { font-size: 250%;}
 .name {text-align: right; margin-top: 80px; margin-right: 30px;}
 .contact-info {text-align: right; margin-right: 30px;}
-.languages, .education { text-align: right; padding-right: 30px; margin-top: 60px;}
-.yui-u > .job p::before { content: '• ';}
+.languages { text-align: right; padding-right: 30px; margin-top: 485px;}
+.yui-u > .job p::before { content: '• ' }
+.education .wellesley { padding-bottom: 0px; margin-bottom: 0px; }
 
