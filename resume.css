@@ -43,13 +43,13 @@ li { line-height: 24px; }
 .left-nav {
     border-right: 1px dotted #cac9c9;
     width: 200px;
-    height: 1035px;
+    height: 1045px;
     text-align: right;
 }
 .right-main { padding-left: 55px; }
 .name h2 { font-size: 250%;}
 .name {text-align: right; margin-right: 30px;}
 .contact-info { margin-top: 7px; text-align: right; margin-right: 30px;}
-.languages { text-align: right; right: 30px; position: absolute; top: 695px;}
+.languages { text-align: right; right: 30px; position: absolute; top: 625px;}
 .yui-u > .job p::before { content: '• ' }
 .education .wellesley { padding-bottom: 0px; margin-bottom: 0px; }
